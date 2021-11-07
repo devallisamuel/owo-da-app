@@ -1,0 +1,14 @@
+C:\Users\allio\source\repos\owoda-App\owoda-App\bin\Debug\netcoreapp3.1\owoda-App.exe
+C:\Users\allio\source\repos\owoda-App\owoda-App\bin\Debug\netcoreapp3.1\owoda-App.deps.json
+C:\Users\allio\source\repos\owoda-App\owoda-App\bin\Debug\netcoreapp3.1\owoda-App.runtimeconfig.json
+C:\Users\allio\source\repos\owoda-App\owoda-App\bin\Debug\netcoreapp3.1\owoda-App.runtimeconfig.dev.json
+C:\Users\allio\source\repos\owoda-App\owoda-App\bin\Debug\netcoreapp3.1\owoda-App.dll
+C:\Users\allio\source\repos\owoda-App\owoda-App\bin\Debug\netcoreapp3.1\owoda-App.pdb
+C:\Users\allio\source\repos\owoda-App\owoda-App\obj\Debug\netcoreapp3.1\owoda-App.csproj.AssemblyReference.cache
+C:\Users\allio\source\repos\owoda-App\owoda-App\obj\Debug\netcoreapp3.1\owoda-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allio\source\repos\owoda-App\owoda-App\obj\Debug\netcoreapp3.1\owoda-App.AssemblyInfoInputs.cache
+C:\Users\allio\source\repos\owoda-App\owoda-App\obj\Debug\netcoreapp3.1\owoda-App.AssemblyInfo.cs
+C:\Users\allio\source\repos\owoda-App\owoda-App\obj\Debug\netcoreapp3.1\owoda-App.csproj.CoreCompileInputs.cache
+C:\Users\allio\source\repos\owoda-App\owoda-App\obj\Debug\netcoreapp3.1\owoda-App.dll
+C:\Users\allio\source\repos\owoda-App\owoda-App\obj\Debug\netcoreapp3.1\owoda-App.pdb
+C:\Users\allio\source\repos\owoda-App\owoda-App\obj\Debug\netcoreapp3.1\owoda-App.genruntimeconfig.cache
